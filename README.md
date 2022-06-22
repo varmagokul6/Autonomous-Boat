@@ -26,11 +26,11 @@ The objective of the project was to design an autonomous boat that would be capa
 
 ## Design
 <p align="center">
-  <img width="560" height="460" src="https://github.com/varmagokul6/Autonomous-Boat/blob/main/images/boat%20front.png">
+  <img width="460" height="460" src="https://github.com/varmagokul6/Autonomous-Boat/blob/main/images/boat%20front.png">
 </p>
 
 <p align="center">
-  <img width="560" height="460" src="https://github.com/varmagokul6/Autonomous-Boat/blob/main/images/boat%20in%20water.png">
+  <img width="460" height="460" src="https://github.com/varmagokul6/Autonomous-Boat/blob/main/images/boat%20in%20water.png">
 </p>
 
 
